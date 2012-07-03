@@ -1,4 +1,4 @@
 erlsyd
 ======
 
-wiki for The Sydney Erlang User Group
+You're probably looking for our [wiki](https://github.com/erlsyd/erlsyd/wiki)
